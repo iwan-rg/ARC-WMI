@@ -8,5 +8,5 @@ Abeer Aldayel, Hend Al-Khalifa, Sinaa Alaqeel, Norah Abanmy, Maha Al-Yahya, Mona
  
 ## License
 
-This data made available by IWAN research group. Under the Creative Commons Attribution 4.0 International license.
+This data made available by IWAN research group under the Creative Commons Attribution 4.0 International license.
 To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/].
