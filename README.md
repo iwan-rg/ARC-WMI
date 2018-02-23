@@ -5,4 +5,5 @@ This corpus contains 4476 sentences with over 61k words, extracted from 94 sourc
 
 ## License
 
+This data made available by IWAN research group. Under the Creative Commons Attribution 4.0 International license.
 To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/].
